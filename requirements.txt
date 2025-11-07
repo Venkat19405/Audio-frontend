@@ -1,0 +1,14 @@
+PyQt6
+logging
+dotenv
+python-dotenv
+openai
+requests
+
+
+
+
+
+
+
+
